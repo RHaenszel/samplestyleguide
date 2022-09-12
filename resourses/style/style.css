@@ -1,0 +1,318 @@
+
+
+h1 {
+    font-size: 48px;
+    font-family: 'Roboto Slab', serif;
+    background-color: hsl(60, 90%, 80%);
+    width: 40%;
+    font-weight: bold;
+    text-align: center;
+    padding: 5px;
+    border-radius: 10px;
+    border-top: 1px solid rgb(110, 110, 110);
+    border-right: 3px solid rgb(110, 110, 110);
+    border-bottom: 3px solid rgb(110, 110, 110);
+    border-left: 1px solid rgb(110, 110, 110);
+}
+
+
+#h2color_container {
+    background-color: hsl(0, 0%, 78%);
+    width: 30%;
+    height: 50px;
+    border-radius: 10px;
+    margin: 60px 0px 20px 0px;
+    border-top: 1px solid rgb(110, 110, 110);
+    border-right: 3px solid rgb(110, 110, 110);
+    border-bottom: 3px solid rgb(110, 110, 110);
+    border-left: 1px solid rgb(110, 110, 110);
+}
+
+
+#h2color {
+    font-size: 35px;
+    font-family: 'Roboto Slab', serif;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+#color_subtext {
+    font-size: 14px;
+    font-family: monospace;
+    font-weight: bold;
+    padding: 0 3px 0 0;
+    margin: 0;
+    text-align: right;
+    position: relative;
+    bottom: 23px;
+}
+
+#h2font {
+    font-size: 35px;
+    font-family: 'Roboto Slab', serif;
+    background-color: hsl(35, 100%, 80%);
+    width: 30%;
+    text-align: center;
+    border-radius: 10px;
+    margin: 60px 0px 20px 0px;
+    border-top: 1px solid rgb(110, 110, 110);
+    border-right: 3px solid rgb(110, 110, 110);
+    border-bottom: 3px solid rgb(110, 110, 110);
+    border-left: 1px solid rgb(110, 110, 110);
+}
+
+#h2text_styles {
+    font-size: 35px;
+    font-family: 'Roboto Slab', serif;
+    background-color: hsl(0, 100%, 80%);
+    width: 30%;
+    text-align: center;
+    border-radius: 10px;
+    margin: 0px 0px 20px 0px;
+    border-top: 1px solid rgb(110, 110, 110);
+    border-right: 3px solid rgb(110, 110, 110);
+    border-bottom: 3px solid rgb(110, 110, 110);
+    border-left: 1px solid rgb(110, 110, 110);
+}
+
+table {
+    width: 70%;
+    border: 5px solid rgb(110, 110, 110);
+    border-radius: 10px;
+
+}
+.color_options {
+    width: 120px;
+    background-color: rgb(200, 200, 200);
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0px 10px;
+    border-top: 1px solid rgb(110, 110, 110);
+    border-right: 3px solid rgb(110, 110, 110);
+    border-bottom: 3px solid rgb(110, 110, 110);
+    border-left: 1px solid rgb(110, 110, 110);
+}
+
+th {
+    height: 50px;
+    width: 25%;
+    border-top: 1px solid rgb(110, 110, 110);
+    border-right: 3px solid rgb(110, 110, 110);
+    border-bottom: 3px solid rgb(110, 110, 110);
+    border-left: 1px solid rgb(110, 110, 110);
+    background-color: rgb(200, 200, 200);
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+td {
+    height: 120px;
+    font-family: monospace;
+    font-weight: bold;
+    text-align: center;
+    font-size: 14px;
+    border: 1px solid rgb(255, 255, 255);
+}
+
+#color1 {
+    background-color: hsl(0, 100%, 50%);
+    border-top: 1px solid rgb(110, 110, 110);
+    border-right: 3px solid rgb(110, 110, 110);
+    border-bottom: 3px solid rgb(110, 110, 110);
+    border-left: 1px solid rgb(110, 110, 110);
+}
+#color1a {
+    background-color: hsl(0, 100%, 65%);
+    border-top: 1px solid rgb(110, 110, 110);
+    border-right: 3px solid rgb(110, 110, 110);
+    border-bottom: 3px solid rgb(110, 110, 110);
+    border-left: 1px solid rgb(110, 110, 110);
+}
+#color1b {
+    background-color: hsl(0, 100%, 80%);
+    border-top: 1px solid rgb(110, 110, 110);
+    border-right: 3px solid rgb(110, 110, 110);
+    border-bottom: 3px solid rgb(110, 110, 110);
+    border-left: 1px solid rgb(110, 110, 110);
+}
+
+
+#color2 {
+    background-color: hsl(35, 100%, 50%);
+    border-top: 1px solid rgb(110, 110, 110);
+    border-right: 3px solid rgb(110, 110, 110);
+    border-bottom: 3px solid rgb(110, 110, 110);
+    border-left: 1px solid rgb(110, 110, 110);
+}
+#color2a {
+    background-color: hsl(35, 100%, 65%);
+    border-top: 1px solid rgb(110, 110, 110);
+    border-right: 3px solid rgb(110, 110, 110);
+    border-bottom: 3px solid rgb(110, 110, 110);
+    border-left: 1px solid rgb(110, 110, 110);
+}
+#color2b {
+    background-color: hsl(35, 100%, 80%);
+    border-top: 1px solid rgb(110, 110, 110);
+    border-right: 3px solid rgb(110, 110, 110);
+    border-bottom: 3px solid rgb(110, 110, 110);
+    border-left: 1px solid rgb(110, 110, 110);
+}
+
+
+#color3 {
+    background-color: hsl(120, 60%, 50%);
+    border-top: 1px solid rgb(110, 110, 110);
+    border-right: 3px solid rgb(110, 110, 110);
+    border-bottom: 3px solid rgb(110, 110, 110);
+    border-left: 1px solid rgb(110, 110, 110);
+}
+#color3a {
+    background-color: hsl(120, 60%, 65%);
+    border-top: 1px solid rgb(110, 110, 110);
+    border-right: 3px solid rgb(110, 110, 110);
+    border-bottom: 3px solid rgb(110, 110, 110);
+    border-left: 1px solid rgb(110, 110, 110);
+}
+#color3b {
+    background-color: hsl(120, 60%, 80%);
+    border-top: 1px solid rgb(110, 110, 110);
+    border-right: 3px solid rgb(110, 110, 110);
+    border-bottom: 3px solid rgb(110, 110, 110);
+    border-left: 1px solid rgb(110, 110, 110);
+}
+
+
+#color4 {
+    background-color: hsl(60, 90%, 50%);
+    border-top: 1px solid rgb(110, 110, 110);
+    border-right: 3px solid rgb(110, 110, 110);
+    border-bottom: 3px solid rgb(110, 110, 110);
+    border-left: 1px solid rgb(110, 110, 110);
+}
+#color4a {
+    background-color: hsl(60, 90%, 65%);
+    border-top: 1px solid rgb(110, 110, 110);
+    border-right: 3px solid rgb(110, 110, 110);
+    border-bottom: 3px solid rgb(110, 110, 110);
+    border-left: 1px solid rgb(110, 110, 110);
+}
+#color4b {
+    background-color: hsl(60, 90%, 80%);
+    border-top: 1px solid rgb(110, 110, 110);
+    border-right: 3px solid rgb(110, 110, 110);
+    border-bottom: 3px solid rgb(110, 110, 110);
+    border-left: 1px solid rgb(110, 110, 110);
+}
+
+.fonts {
+    width: 70%;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.cardo {
+    font-family: 'cardo', serif;
+    font-size: 18px;
+    display: inline-table;
+    width: 40%;
+    height: 200px;
+    margin: 25px;
+    border-top: 2px solid hsl(35, 100%, 50%);
+}
+
+.merriweather {
+    font-family: 'Merriweather', serif;
+    font-size: 18px;
+    display: inline-table;
+    width: 40%;
+    height: 200px;
+    margin: 25px;
+    border-top: 2px solid hsl(35, 100%, 50%);
+}
+
+.roboto {
+    font-family: 'Roboto Slab', serif;
+    font-size: 18px;
+    display: inline-table;
+    width: 40%;
+    height: 200px;
+    margin: 25px;
+    border-top: 2px solid hsl(35, 100%, 50%);
+}
+
+#pseudo_h1 {
+    font-size: 48px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+    margin: 0;
+}
+
+.ul_h1 {
+    font-family: 'Roboto Slab';
+    font-size: 18px;
+}
+
+#pseudo_h2 {
+    font-size: 35px;
+    margin: 0;
+    padding-bottom: 5px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+}
+
+.ul_h2 {
+    font-family: 'Roboto Slab';
+    font-size: 18px;
+}
+
+#pseudo_p {
+    font-size: 18px;
+    margin: 0;
+    padding-bottom: 10px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: normal;
+}
+
+.ul_p {
+    font-family: 'Roboto Slab';
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.text_style_inline_table {
+    display: inline-block;
+    padding: 0px 30px 0px 0px;
+    height: 150px;
+    text-align: left;
+
+}
+
+.text_styles {
+    width: 70%;
+    border-bottom: 2px solid hsl(0, 100%, 50%);
+
+}
+
+footer {
+    font-family: 'Merriweather', serif;
+    width: 70%;
+    background-color: hsl(120, 60%, 80%);
+    padding: 30px;
+    margin: 40px 0px;
+    border: 1px solid hsl(120, 60%, 50%);
+}
